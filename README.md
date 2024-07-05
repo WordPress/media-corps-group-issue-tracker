@@ -1,5 +1,6 @@
 # WordPress Media Corps Project Tracker
-The WordPress Media Corps is a new experimental project that aims to enable independent WordPress marketers and media members to produce excellent quality content with less time and effort.
+The WordPress Media Corps is a new experimental project that aims to enable independent WordPress marketers and media members to produce excellent quality content with less time and effort. We use [this GitHub board](https://github.com/orgs/WordPress/projects/208) to track work and tasks for this project.
+
 
 **What does this look like in practice?**
 
