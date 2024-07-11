@@ -4,7 +4,7 @@ The WordPress Media Corps is a new experimental project that aims to enable inde
 
 **What does this look like in practice?**
 
-The WordPress Media Corps project is intentionally adopting a limited scope that we can confidently manage to test the viability and assumptions necessary to achieve the desired goal. In practice, this means the project will focus on compiling updates and news across the project that would benefit from increased awareness and getting them to WordPress media partners and marketers more readily through regular meetings.
+The WordPress Media Corps project is intentionally adopting a limited scope that we can confidently manage to test the viability and assumptions to achieve the desired goal. In practice, this means the project will focus on compiling updates and news across the project that would benefit from increased awareness and getting them to WordPress media partners and marketers more readily through regular briefings/meetings.
 
 For more information and context about the Media Corps project, you can refer to the [Media Corps Handbook](https://make.wordpress.org/media-corps/handbook/) and these posts:
 
@@ -14,4 +14,4 @@ For more information and context about the Media Corps project, you can refer to
 - [Making a WordPress Media Corps](https://make.wordpress.org/marketing/2024/03/20/making-a-wordpress-media-corps/)
 - [WordPress Media Corps Next Steps](https://make.wordpress.org/marketing/2024/04/29/wordpress-media-corps-next-steps/)
 
-Those interested in participating and following along are welcome to join the [#media-corps](https://wordpress.slack.com/archives/C0723V9S7CY) Slack channel.
+Media partners and those interested in participating and following along are welcome to join the `#media-corps` channel of the Making WordPress Slack. Contributors of the Media Corps team also use the `#media-corps-team` channel to discuss project work and tasks.
